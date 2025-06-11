@@ -1,13 +1,8 @@
-# My Python App
+# AI for Good Hackathon
 
-This project is a simple Python application that demonstrates the use of Docker and GitHub Actions for continuous integration.
+Welcome to the AI for Good Hackathon project! This repository contains our team's solution for leveraging artificial intelligence to address real-world social and environmental challenges. Our goal is to develop innovative, impactful, and ethical AI applications that contribute positively to society.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+In this project, you'll find all the resources, code, and documentation needed to understand, run, and contribute to our AI-driven solution. We encourage collaboration and creative problem-solving to make a meaningful difference through technology.
 
 ## Installation
 
@@ -34,7 +29,3 @@ python src/main.py
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
